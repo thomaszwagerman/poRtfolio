@@ -21,7 +21,7 @@
 golem::fill_desc(
   pkg_name = "poRtfolio", # The Name of the package containing the App
   pkg_title = "Portfolio tracker", # The Title of the package containing the App
-  pkg_description = "A package to keep track of my investment portfolio.", # The Description of the package containing the App
+  pkg_description = "An app to keep track of my investment portfolio.", # The Description of the package containing the App
   author_first_name = "Thomas", # Your First Name
   author_last_name = "Zwagerman", # Your Last Name
   author_email = "thomas_zwagerman@hotmail.com", # Your Email

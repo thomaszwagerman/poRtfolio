@@ -1,12 +1,8 @@
 Package: poRtfolio
-Title: An Amazing Shiny App
+Title: Portfolio tracker
 Version: 0.0.0.9000
-Authors@R: 
-    person(given = "firstname",
-           family = "lastname",
-           role = c("aut", "cre"),
-           email = "your@email.com")
-Description: What the package does (one paragraph).
+Authors@R: person('Thomas', 'Zwagerman', email = 'thomas_zwagerman@hotmail.com', role = c('cre', 'aut'))
+Description: An app to keep track of my investment portfolio.
 License: MIT + file LICENSE
 Imports: 
     attempt,
